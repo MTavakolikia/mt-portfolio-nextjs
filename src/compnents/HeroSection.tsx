@@ -1,4 +1,4 @@
-"use client" // this is a client component
+"use client"
 import React from "react"
 import Image from "next/image"
 import { Link } from "react-scroll/modules"
