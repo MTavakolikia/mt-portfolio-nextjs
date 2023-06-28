@@ -1,5 +1,4 @@
 import AboutSection from "@/compnents/AboutSection";
-import Footer from "@/compnents/Footer";
 import HeroSection from "@/compnents/HeroSection";
 import ProjectsSection from "@/compnents/ProjectSection";
 
@@ -11,7 +10,7 @@ export default function Home() {
         <AboutSection />
         <ProjectsSection />
       </main>
-      <Footer />
+
     </>
   )
 }
