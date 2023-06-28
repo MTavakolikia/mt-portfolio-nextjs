@@ -42,7 +42,7 @@ const Navbar = () => {
                                 <h2 className="text-2xl font-bold">Mohammad Tavakolikia</h2>
                             </div>
                         </Link>
-                        <div style={{ display: "none" }}>
+                        <div className="md:hidden">
                             <button
                                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
                                 onClick={() => setNavbar(!navbar)}
