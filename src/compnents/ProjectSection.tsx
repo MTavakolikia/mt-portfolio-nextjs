@@ -40,6 +40,14 @@ const projects = [
         link: "https://game-i8zk5nfbi-mtavakolikia.vercel.app/",
         github: "https://github.com/MTavakolikia/game-hub"
     },
+    {
+        name: "Admin Dashboard",
+        description:
+            "In this project I tried to build an admin dashboard that you can find a cool UI and different chart at it and its also support multi language , dark and light mode.Also I used react.js , Marterial UI and other library like yup , full calendar , formik , nivo chart , emotion and I used react-i18next for multi language",
+        image: "/MT_Admin_Dashboard.png",
+        link: "https://mt-admin-dashboard-mtavakolikia.vercel.app",
+        github: "https://github.com/MTavakolikia/MT-Admin-Dashboard"
+    },
 ]
 
 const ProjectsSection = () => {
